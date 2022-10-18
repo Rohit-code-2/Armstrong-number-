@@ -1,8 +1,7 @@
-# Program to check Armstrong numbers in a certain interval
+# Program to check Armstrong numbers 
 
 lower = 100
 upper = 2000
-
 for num in range(lower, upper + 1):
 
    # order of number
@@ -18,4 +17,5 @@ for num in range(lower, upper + 1):
        temp //= 10
 
    if num == sum:
+
        print(num)
