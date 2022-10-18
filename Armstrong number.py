@@ -1,4 +1,4 @@
-# Program to check Armstrong numbers 
+# to check Armstrong numbers 
 
 lower = 100
 upper = 2000
